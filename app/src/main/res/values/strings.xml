@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Basic Views</string>
+    <string name="dummy_text">Dummy TextView</string>
+    <string name="button">Button</string>
+    <string name="dummy_edittext">Dummy Edittext</string>
+    <string name="demo_check_box">Demo Check-Box</string>
+    <string name="radiobutton">RadioButton</string>
+</resources>
